@@ -6,6 +6,10 @@ use-site-title: true
 ---
 
 <div class="posts-list">
+  {% comment %}
+    show pinned entry. name of pinned entry is given in _config.yml (pinned_entry: pinned.html).
+    the file shall exist in _includes folder of Jekyll
+  {% endcomment %}
   {% if site.pinned_entry %}
     {% capture fileExists %}{% file_exists _includes/{{site.pinned_entry}} %}{% endcapture %}
     {% if fileExists=="true" %}
