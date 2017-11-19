@@ -750,10 +750,8 @@ td.gutter {
   border: unset;
 }
 
+/* Forms (Contact form - primarily) */
 
-/*
- * Forms
- */
 input,
 label,
 select {
@@ -762,7 +760,8 @@ select {
 
 label {
   margin-bottom: 0.5em;
-  font-family: Menlo, Consolas, Monaco, "Courier New", Courier, monospace;
+  /*font-family: Menlo, Consolas, Monaco, "Courier New", Courier, monospace;*/
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;;
   font-size: 0.8em;
 
   &.required::after {
@@ -788,7 +787,8 @@ select[multiple="multiple"] {
   border-width: 1px 1px 4px 1px;
   border-radius: 0.25em;
   background-color: #fff;
-  font-family: "Roboto", sans-serif;
+  /*font-family: "Roboto", sans-serif;*/
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;;
   font-size: 16px;
   box-shadow: inset 0 1px 3px hsla(0, 0%, 0%, 0.06);
 
@@ -849,6 +849,94 @@ form {
 
 .form-group {
   margin-bottom: 0.5rem;
+  margin: 10px 0 0 0;
+}
+
+.form-group > button {
+  display: inline-block;
+  padding: 5px 14px;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 15px;
+}
+
+.form-group > button:hover {
+  text-decoration: none;
+  background-color: #eee;
+}
+
+.form-group button {
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  text-transform: uppercase;
+  font-size: 14px;
+  font-weight: 800;
+  letter-spacing: 1px;
+  padding: 10px 5px;
+  background: #FFF;
+  border-radius: 0;
+  color: #404040;
+
+  &:hover {
+    background-color: tint(#00848a;, 20%);
+    color: #fff;
+  }
+
+  &:visited {
+    color: #fff;
+  }
+
+  &:active {
+    transform: scale(0.95);
+  }
+
+  &:focus {
+    background-color: shade(#00848a;, 20%);
+  }
+
+  .icon {
+    margin-right: 0.5em;
+  }
+
+  &--group {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 2rem;
+
+    @include breakpoint($medium) {
+      flex-direction: row;
+    }
+
+    .btn {
+      margin-bottom: 0.25em;
+    }
+
+    .btn + .btn {
+      @include breakpoint($medium) {
+        margin-left: 0.25em;
+      }
+    }
+  }
+
+  /* disabled */
+  &--disabled {
+    pointer-events: none;
+    box-shadow: none;
+    cursor: not-allowed;
+    opacity: 0.65;
+  }
+}
+
+.form-group button:hover,
+.form-group button:focus {
+  color: #FFF;
+  background: #0085a1;
+  border: 1px solid #0085a1;
+}
+
+@media only screen and (min-width: 768px) {
+  .form-group button {
+    padding: 15px 25px;
+  }
 }
 
 /* required */
