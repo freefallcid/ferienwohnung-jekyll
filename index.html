@@ -6,6 +6,13 @@ use-site-title: true
 ---
 
 <div class="posts-list">
+  {% if site.pinned_entry %}
+    {% capture fileExists %}{% file_exists _includes/{{site.pinned_entry}} %}{% endcapture %}
+    {% if fileExists=="true" %}
+        {% include {{site.pinned_entry}} %}
+    {% endif %}
+  {% endif %}
+
   {% for post in paginator.posts %}
   <article class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
