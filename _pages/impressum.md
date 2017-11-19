@@ -2,7 +2,14 @@
 layout: page
 title: Impressum
 permalink: /impressum/
-subtitle: Wir sind wir und wer bist du?
+subtitle: 
 ---
 
-Niemand.
+### Ferienwohnung Reich
+
+Familie Birgit und Roland Reich  
+Seite 37  
+6433 Oetz
+
+Telefon: +4366473636692  
+Email: fam.reich@aon.at
