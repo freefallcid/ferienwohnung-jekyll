@@ -1,5 +1,6 @@
 # Site wide configuration
 
+host                     : 0.0.0.0
 url                      : ""
 
 profile                  : true
