@@ -9,7 +9,7 @@ baseurl: ""
 
 # name of the intro file that gets loaded as a pinned entry on homepage
 # (must reside in _includes folder)
-#pinned_entry: pinned.html
+# pinned_entry: pinned.html
 
 # If you are building a GitHub project page then use these settings:
 #url: "http://username.github.io/projectname"
@@ -27,6 +27,15 @@ description: Urlaub am Oetzerberg
 
 # List of links in the navigation bar
 navbar-links:
+  # Ferienwohnung:
+  #   - Information: "ferienwohnung"
+  #   - Ausstattung: "ferienwohnung/#ausstattung"
+  #   - Bildergalerie: "ferienwohnung#bilder"
+  Ferienwohnung: "ferienwohnung"
+  Örtliche Angebote:
+    - Sommer: "sommer"
+    - Winter: "winter"
+    - Skigebiet: "skigebiet"
   Kontakt: "kontakt"
   Impressum: "impressum"
   # Resources:
