@@ -2,8 +2,12 @@
 layout: page
 title: "Kontakt"
 permalink: /kontakt/
-subtitle: 
+subtitle:
+#published: false
 ---
+
+{: .box-error}
+<span style="font-size: 120%">**Achtung:**</span><br>Das Kontaktformular funktioniert derzeit leider nicht. Es wird daran gearbeitet!
 
 Sie haben eine Frage oder wollen direkt Ihren Urlaub buchen?[^1] Schreiben Sie uns Ihr Anliegen per Email.
 
