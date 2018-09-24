@@ -11,5 +11,5 @@ Familie Birgit und Roland Reich
 Seite 37  
 6433 Oetz
 
-Telefon: +43525220091
+Telefon: +43525220091  
 Email: fam.reich@aon.at
