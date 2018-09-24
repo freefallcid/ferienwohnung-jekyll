@@ -1,7 +1,7 @@
 # Site wide configuration
 
 host                     : 0.0.0.0
-url                      : ""
+url                      : "http://feworeich.dev"
 
 profile                  : true
 future                   : true

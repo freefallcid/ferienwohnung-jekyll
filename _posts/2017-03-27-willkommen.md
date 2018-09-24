@@ -8,7 +8,7 @@ tags: [ferienwohnung, website]
 
 Wir dürfen Sie recht herzlich auf unserer neuen Webpräsenz willkommen heißen!
 
-Auf diesen Seiten finden Sie grundlegende Informationen zu unserer Ferienwohnung sowie aktuelle Beiträge bzw. Dokumente. Darunter werden wir versuchen, Ihnenaktuelle Angebote und Newsletter des Ötztals zur Verfügung zu stellen.
+Auf diesen Seiten finden Sie grundlegende Informationen zu unserer Ferienwohnung sowie aktuelle Beiträge bzw. Dokumente. Darunter werden wir versuchen, Ihnen aktuelle Angebote und Newsletter des Ötztals zur Verfügung zu stellen.
 
 Wir möchten Ihnen unsere Ferienwohnung nur kurz vorstellen – mehr Informationen zur Ferienwohnung sowie einen aktuellen Belegungsplan finden Sie bei [BestFewo.de](https://www.bestfewo.de/unterkunft/19297312.html).
 
