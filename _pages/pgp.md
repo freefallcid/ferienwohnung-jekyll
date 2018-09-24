@@ -5,7 +5,7 @@ permalink: /pgp/
 subtitle: another one bites the dust…
 ---
 
-Mit Blick auf die Zukunft haben wir uns einen Schlüssel "besorgt". Unser öffentlicher Schlüssel liegt auf Keyservern bzw. kann [hier](ftp://dominicreich.com/fewo/0x4257CA36.asc) runtergeladen werden.
+Mit Blick auf die Zukunft haben wir uns einen Schlüssel "besorgt". Unser öffentlicher Schlüssel liegt auf Keyservern bzw. kann [hier](/0x4257CA36.asc) runtergeladen werden.
 
 ```
      Key-ID: 0x4257CA36
