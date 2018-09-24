@@ -9,7 +9,9 @@ subtitle:
 {: .box-error}
 <span style="font-size: 120%">**Achtung:**</span><br>Das Kontaktformular funktioniert derzeit leider nicht. Es wird daran gearbeitet!
 
+{% comment %}
 Sie haben eine Frage oder wollen direkt Ihren Urlaub buchen?[^1] Schreiben Sie uns Ihr Anliegen per Email.
+
 
 <form id="contact" name="contact" accept-charset="UTF-8" autocomplete="off" enctype="multipart/form-data" method="post" novalidate action="https://dominicreich.com/cgi-bin/contact.pl">
   <div class="form-group">
@@ -52,3 +54,4 @@ Sie haben eine Frage oder wollen direkt Ihren Urlaub buchen?[^1] Schreiben Sie u
 </form>
 
 [^1]: Wenn Sie Ihren Urlaub bei uns buchen möchten, sollte Ihre Email bereits Ihren **vollständigen Namen**, Ihre **Adresse** sowie Ihre **Staatsbürgerschaft** enthalten. Weiters sollten die **Daten der gewünschten An- bzw, Abreise** bekannt sein als auch die **Anzahl der Erwachsenen** und **Kinder** -- unsere Ferienwohnung ist geeignet für maximal 2 Erwachsene und 2 Kinder oder 3 Erwachsene.
+{% endcomment %}
