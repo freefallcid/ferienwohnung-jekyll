@@ -2,7 +2,7 @@
 layout: page
 title: Ferienwohnung
 permalink: /ferienwohnung/
-subtitle: Ferienwohnung in ruhiger und sonniger Hanglage im Wander- und Skigebiet von Oetz
+subtitle: In ruhiger und sonniger Hanglage im Wander- und Skigebiet von Oetz
 ---
 
 Wir stellen Ihnen eine schöne, modern eingerichtete Ferienwohnung für 2 bis maximal 4 Personen in ruhiger Lage auf der Sonnenseite des Wander- und Skigebietes von Oetz vor. Das Appartement ist bestens geeignet für Ihren Erholungsurlaub, Wanderurlaub, Bergurlaub, Skiurlaub oder Familienurlaub.
@@ -11,14 +11,14 @@ Unsere Ferienwohnung befindet sich auf einem sonnigen und idyllischen Bergbauern
 
 Sie können Ihr Auto auf einem eigenen Stellplatz im Carport parken -- in die Ferienwohung gelangen Sie über einen separaten Eingang an der Terrasse im Untergeschoss des Hauses.
 
-Die Ferienwohnung stellt sich zusammen aus einem gemütlichen Wohnzimmer mit Polstercouch, der Kochnische mit Essecke, einer Garderobe mit Spiegel, dem Badezimmer sowie dem Schlafzimmer mit Doppelbett. Die gesamte Wohnung wird über eine regelbare Fußbodenheizung beheizt. Wir heizen traditionell mit Holz, das wir selber verarbeiten.
+Die Ferienwohnung stellt sich zusammen aus einem gemütlichen Wohnzimmer mit Polstercouch, der Kochnische mit Essecke, einer Garderobe mit Spiegel, dem Badezimmer mit Fenster sowie dem Schlafzimmer mit Doppelbett und Schiebetürenkleiderschrank. Die gesamte Wohnung wird über eine regelbare Fußbodenheizung beheizt. Wir heizen traditionell mit Holz aus unseren Waldteilen, das wir selber verarbeiten.
 
 <!-- Unsere Staubsaugeranlage ist auch in der Ferienwohnung verbaut. Ein Schlauch findet sich hinter der Schlafzimmertür. -->
 <!-- Einen Staubsaugerschlauch finden Sie im Schlafzimmer hinter der Tür. Der Schlauch wird einfach an einen der dafür vorgesehenen Anschlüsse angesteckt und die Anlage fängt automatisch an zu saugen. -->
 
 Genießen Sie das Bergpanorama von der Terrasse aus oder beobachten Sie das Damwild im angrenzenden privaten Gehege.
 
-Raucher finden einen Aschenbecher auf der Terrasse -- unsere Wohnung ist eine **Nichtraucherwohnung**.
+Raucher finden einen Aschenbecher auf der Terrasse -- unsere Wohnung ist eine **<mark>Nichtraucherwohnung</mark>**.
 
 Selbstverständlich ist auch für Bettwäsche, Handtücher, Toilettenpapier, Geschirrtücher, Zentral-Staubsauger und Reinigungsmittel gesorgt.
 Auch die Küche ist voll ausgestattet mit Spülmaschine, Kaffeemaschine, Wasserkocher, Toaster, Mikrowelle, Backofen, Kühlschrank mit Gefrierfach, Kochgeschirr, Gläser, Teller und Besteck.
@@ -43,5 +43,3 @@ Auch die Küche ist voll ausgestattet mit Spülmaschine, Kaffeemaschine, Wasserk
   - diverse Kochutensilien...
 
 ### Bilder
-
-
