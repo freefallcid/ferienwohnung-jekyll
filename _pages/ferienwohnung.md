@@ -18,7 +18,7 @@ Die Ferienwohnung stellt sich zusammen aus einem gemütlichen Wohnzimmer mit Pol
 
 Genießen Sie das Bergpanorama von der Terrasse aus oder beobachten Sie das Damwild im angrenzenden privaten Gehege.
 
-Raucher finden einen Aschenbecher auf der Terrasse -- unsere Wohnung ist eine **<mark>Nichtraucherwohnung</mark>**.
+Raucher finden einen Aschenbecher auf der Terrasse -- unsere Wohnung ist eine **Nichtraucherwohnung**.
 
 Selbstverständlich ist auch für Bettwäsche, Handtücher, Toilettenpapier, Geschirrtücher, Zentral-Staubsauger und Reinigungsmittel gesorgt.
 Auch die Küche ist voll ausgestattet mit Spülmaschine, Kaffeemaschine, Wasserkocher, Toaster, Mikrowelle, Backofen, Kühlschrank mit Gefrierfach, Kochgeschirr, Gläser, Teller und Besteck.
